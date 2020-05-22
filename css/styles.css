@@ -20,15 +20,21 @@ header{
 
 .description{
     color: #f0a500;
+    top:30%;
+    max-width: max-content;
     position: absolute;
     top:30%;
-    margin-left: 40%;
+    right:10%;
+
 }
 
 .description h1{
-    font-size: 5rem;
+    font-size: 4rem;
+    font-family: 'Montserrat';
+    width: 50%;
 }
 
 .description h2{
     font-size: 3rem;
+    font-family: 'Montserrat';
 }

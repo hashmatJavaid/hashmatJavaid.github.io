@@ -18,20 +18,17 @@ header{
     background-position: center;
 }
 
-.head-text{
-    color:#f0a500;
+.description{
+    color: #f0a500;
     position: absolute;
-    top: 30%;
-    margin-left: 50%;
-    text-align: center;
-    text-decoration: none;
-    text-transform: capitalize;
-
+    top:30%;
+    margin-left: 40%;
 }
 
-.head-text h1{
+.description h1{
     font-size: 5rem;
 }
-.head-text h2{
+
+.description h2{
     font-size: 3rem;
 }

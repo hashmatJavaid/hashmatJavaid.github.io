@@ -18,10 +18,10 @@ new TypeIt("#sub-head", {
   book.addEventListener("click",function(){
     //this.classList.toggle("book-bigger")
     if(this.front){
-      this.src = "/img/bookcoverback.jpg";
+      this.src = "img/bookcoverback.jpg";
       this.front = false;
     }else{
-      this.src = "/img/bookcover.jpg";
+      this.src = "img/bookcover.jpg";
       this.front = true;
     }
     

@@ -5,6 +5,14 @@ new TypeIt("#sub-head", {
     loop: true,
   }).go();
 
+  //animating book-description
+  new TypeIt(".book-description", {
+    strings:"",
+    speed: 40,
+    loop: false,
+  }).go();
+
+  //book cover toggler
   let book = document.querySelector(".book-cover");
   book.front  =true;
   book.addEventListener("click",function(){

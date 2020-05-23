@@ -34,7 +34,12 @@ h2::after{
     padding: 10px;
     width: 100px;
     text-decoration: none;
-    color: black;
+    color: white;
+}
+
+.btn:hover,.btn:active{
+    background-color: #cf7500;
+    color: white;
 }
 /* header */
 header{
@@ -88,6 +93,7 @@ header{
 .project-item h3{
     padding-bottom: 20px;
     text-align: center;
+    font-weight: 200;
     
 }
 

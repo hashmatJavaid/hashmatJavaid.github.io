@@ -152,3 +152,11 @@ header{
 .about p{
     color: black;
 }
+
+.about-img-col{
+    text-align: center;
+}
+.about-image{
+    width: 60%;
+    border-radius:50px;
+}

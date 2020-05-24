@@ -16,6 +16,9 @@ section{
 
 h2{
     text-align: center;
+    font-size: 2rem;
+    font-weight: 300;
+    font-family: 'Montserrat';
 }
 
 h2::after{
@@ -82,12 +85,11 @@ header{
 
 
 .projects h2{
-    font-size: 2rem;
-    font-weight: 300;
-    font-family: 'Montserrat';
+    
 }
 .project-item{
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .project-item h3{
@@ -112,4 +114,24 @@ header{
 .book-bigger{
     width: 70%;
 }
-/* projects */
+/* projects end*/
+
+.quotes{
+    background-color: #000000;
+}
+
+.quotes h2{
+    color:#cf7500;
+}
+
+.quote-content{
+    color: #d4913a;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Montserrat';
+}
+
+.carousel-row{
+    padding-top: 30px;
+}

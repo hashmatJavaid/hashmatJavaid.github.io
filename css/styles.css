@@ -134,4 +134,21 @@ header{
 
 .carousel-row{
     padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/* about section */
+.about{
+    background-image:linear-gradient(rgba(243, 232, 232, 0.877),rgba(187, 187, 204, 0.884)),url("../img/hashmatlight.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.about h2{
+    color: #f0a500;
+}
+
+.about p{
+    color: black;
 }

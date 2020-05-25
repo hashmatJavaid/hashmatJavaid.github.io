@@ -151,6 +151,10 @@ header{
 
 .about p{
     color: black;
+    padding-top: 30px;
+    width: 90%;
+    text-align: center;
+    line-height: 125%;
 }
 
 .about-img-col{

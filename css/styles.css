@@ -172,6 +172,7 @@ header{
 .contact{
     background-color: black;
     color: #cf7500;
+    padding-bottom: 30px;
 }
 
 
@@ -199,4 +200,16 @@ form{
 
 .icon-div span{
     padding-left: 20px;
+}
+
+
+footer{
+    background-color: #dbdbdb;
+    text-align: center;
+}
+
+.foot p{
+    font-size: 120%;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }

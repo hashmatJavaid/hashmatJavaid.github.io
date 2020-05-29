@@ -26,3 +26,8 @@ new TypeIt("#sub-head", {
     }
     
   })
+
+
+  //aos
+
+  AOS.init();
